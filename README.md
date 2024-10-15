@@ -10,7 +10,7 @@
 
 - **Languages:** C, C++, Java, Python, R, HTML, CSS, JavaScript, TypeScript, SQL, x86 Assembly, Bash
 - **Frontend:** HTML, CSS, TypeScript, React, Redux, Next.js, Vue, React Native, UIKit, SwiftUI, RxJS, Lerna
-- **Backend:** Node.js, Express.js, Flask, Django, FastAPI, Nginx, GraphQL, Apollo, Firebase, SQL, Strapi, MongoDB, PostgreSQL, OAuth 2.0
+- **Backend:** Node.js, Express.js, Flask, Django, FastAPI, Nginx, GraphQL, Apollo, Firebase, Strapi CMS, MongoDB, PostgreSQL
 - **DevOps:** Github Actions, Docker, Kubernetes, Terraform, Airflow, MLflow, AWS, GCP
 - **Testing:** Jest, React Testing Library, TestNG, Selenium
 - **Data Engineering:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, FFMPEG, SQL
