@@ -11,7 +11,7 @@
 - **Languages:** C, C++, Java, Python, R, HTML, CSS, JavaScript, TypeScript, SQL, x86 Assembly, Bash
 - **Frontend:** React, Redux, Next.js, Vue, React Native, UIKit, SwiftUI, RxJS, Lerna, Single-SPA, Vite, Webpack, Tailwind, Emotion
 - **Backend:** Node.js, Express.js, Flask, Django, FastAPI, Nginx, GraphQL, Apollo, Firebase, Strapi CMS, MongoDB, PostgreSQL
-- **DevOps:** Github Actions, Docker, Kubernetes, Terraform, Airflow, MLflow, AWS, GCP
-- **Testing:** Jest, React Testing Library, TestNG, Selenium
+- **DevOps:** AWS, GCP, Docker, Kubernetes, Terraform, Github Actions, Airflow, MLflow
+- **Testing:** Jest, React Testing Library, TestNG, Selenium, Pytest
 - **Data Engineering:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, FFMPEG, SQL
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, FastAI, spaCy, NLTK, OpenCV
