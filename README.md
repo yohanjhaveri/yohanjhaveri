@@ -13,5 +13,5 @@
 - **Backend:** Node.js, Express.js, Flask, Django, FastAPI, Nginx, GraphQL, Apollo, Firebase, Strapi CMS, MongoDB, PostgreSQL
 - **DevOps:** AWS, GCP, Docker, Kubernetes, Terraform, Github Actions, Airflow, MLflow
 - **Testing:** Jest, React Testing Library, TestNG, Selenium, Pytest
-- **Data Engineering:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, FFMPEG, SQL
+- **Data Engineering:** Pandas, NumPy, SciPy, Matplotlib, Seaborn, FFMPEG
 - **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, FastAI, spaCy, NLTK, OpenCV
