@@ -4,7 +4,7 @@
 - I graduated with a bachelors degree in Computer Science and Economics from Emory University
 - I co-founded [StudyFind](https://github.com/StudyFind), a platform that connected researchers and participants
 - I love exploring topics like cryptography, UX design, algorithms, and machine learning
-- I enjoy playing my acoustic guitar, taking shots with my film camera, and reading about philosophy
+- I enjoy playing my acoustic guitar, taking photos with my film camera, and reading about philosophy
 
 ## My skills 🛠
 
